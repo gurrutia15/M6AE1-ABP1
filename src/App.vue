@@ -1,15 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  
+   <TablaUsuariosComponents></TablaUsuariosComponents>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+  import TablaUsuariosComponents from '@/components/TablaUsuariosComponents.vue';
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TablaUsuariosComponents,
+    
   }
 }
 </script>
@@ -23,4 +23,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+body{
+  background-color: #f9f7f0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
 </style>
+
