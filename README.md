@@ -28,9 +28,9 @@ Los datos están almacenados en la propiedad `data` de la instancia de Vue y se 
 3. Abre la terminal en la carpeta del proyecto.
 4. Instala las dependencias:
 
-5.   Se creó el proyecto en Vue.js utilizando `Vite` con el siguiente comando
+5.   Se creó el proyecto en Vue.js utilizando `CLI` con el siguiente comando
  ```
- npm create vite@latest
+ npm create nombre_proyecto
  ```
  Luego instalamos las dependencias utilizando npm
 ```
@@ -39,9 +39,9 @@ npm install
 Ejecutamos el servidor de desarrollo
 
 ```
-npm run dev
+npm run server
 ```
-6. Abre tu navegador en http://localhost:5173 (o el puerto que indique Vite).
+6. Abre tu navegador en http://localhost:5173 (o el puerto que indique CLI).
 
 ## 🧩 Estructura del componente
 
