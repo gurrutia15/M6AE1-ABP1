@@ -67,7 +67,7 @@ Para poder personalizar estilos en elementos internos (como <th>, <td> o clases 
 ## 📚 Referencias
 - Vue.js 3
 - Bootstrap 5
-- Vite
+- CLI
 
 ## 🙌 Créditos
 Desarrollado por: Gonzalo Urrutia
