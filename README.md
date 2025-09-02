@@ -41,7 +41,7 @@ Ejecutamos el servidor de desarrollo
 ```
 npm run server
 ```
-6. Abre tu navegador en http://localhost:5173 (o el puerto que indique CLI).
+6. Abre tu navegador en http://localhost:8080 (o el puerto que indique CLI).
 
 ## 🧩 Estructura del componente
 
